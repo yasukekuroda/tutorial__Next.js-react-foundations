@@ -1,15 +1,11 @@
 {
   "name": "react-foundations",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "next dev"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "next": "^15.5.5",
     "react": "^19.2.0",
